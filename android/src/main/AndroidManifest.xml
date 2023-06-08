@@ -1,0 +1,3 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+  package="cloud.iothub.plugin.openiothub_background_service">
+</manifest>
